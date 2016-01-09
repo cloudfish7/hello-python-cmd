@@ -1,0 +1,35 @@
+Metadata-Version: 1.1
+Name: hello-python
+Version: 0.0.1
+Summary: Hello Python
+Home-page: https://github.com/AkihikoITOH/capybara
+Author: test
+Author-email: test@mail.jp
+License: MIT
+Description: # Hello Python
+        
+        test
+        
+        ### Installation
+        The latest release of Hello Pytho  can be installed via pip:
+        ```
+        pip install Hello Python
+        ```
+        ### Configuration File
+        Test
+        
+        
+        
+        
+Keywords: amazon,product advertising,item search,api
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: Japanese
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content :: CGI Tools/Libraries
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: MIT License

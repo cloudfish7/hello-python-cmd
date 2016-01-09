@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+hello_python.egg-info/PKG-INFO
+hello_python.egg-info/SOURCES.txt
+hello_python.egg-info/dependency_links.txt
+hello_python.egg-info/top_level.txt
+hello_python.egg-info/zip-safe
